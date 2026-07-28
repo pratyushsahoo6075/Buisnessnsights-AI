@@ -1,5 +1,5 @@
 
-# 🚀 DecisionPilot AI
+# 🚀 Business Insight-AI
 ### AI-Powered Business Intelligence & Decision Support Platform
 
 DecisionPilot AI is an end-to-end **Business Intelligence (BI), Machine Learning, and Generative AI** platform built with **Streamlit**. It enables users to upload datasets, perform automated data preprocessing, explore interactive dashboards, train machine learning models, generate AI-powered business insights, chat with their data, and export professional reports—all within a single application.
