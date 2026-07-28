@@ -369,8 +369,8 @@ This project is released under the **MIT License** and is intended for education
 
 ---
 
-# ⭐ Why DecisionPilot AI?
+# ⭐ Why Business Insight-AI?
 
-DecisionPilot AI is more than a traditional machine learning application. It combines **Business Intelligence**, **Interactive Analytics**, **Machine Learning**, and **Generative AI** into a unified decision-support platform. By integrating automated preprocessing, visual analytics, predictive modeling, AI-generated business recommendations, and conversational data analysis, it demonstrates a complete end-to-end data science workflow suitable for real-world business scenarios and professional portfolios.
+Business Insight-AI is more than a traditional machine learning application. It combines **Business Intelligence**, **Interactive Analytics**, **Machine Learning**, and **Generative AI** into a unified decision-support platform. By integrating automated preprocessing, visual analytics, predictive modeling, AI-generated business recommendations, and conversational data analysis, it demonstrates a complete end-to-end data science workflow suitable for real-world business scenarios and professional portfolios.
 ````
 
